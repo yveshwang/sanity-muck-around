@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@sanity/image-url": "^1.0.1",
+    "groq": "^2.33.2"
+  }
+}

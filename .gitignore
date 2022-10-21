@@ -1,0 +1,13 @@
+node_modules/
+*.swp
+.DS_Store
+dist/
+web/node_modules
+web/.next
+web/out
+web/coverage
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+studio/dist
+studio/node_modules
